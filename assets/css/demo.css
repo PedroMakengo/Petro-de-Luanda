@@ -1,0 +1,139 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #666;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-size: 100%;
+    background-attachment: fixed !important;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#050505f1), to(#050505f1)),url(../img/photo-1.jpg);
+}
+.page-body {
+    width: 78%;
+    background: white;
+    margin: auto;
+}
+
+span {
+    color: #A6A6A6;
+}
+.banner-petro {
+    background-position: center;
+    background-size: 100% ;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://scontent.flad4-1.fna.fbcdn.net/v/t1.0-9/82986568_2326602830973645_6519972457992945664_o.jpg?_nc_cat=105&_nc_sid=e3f864&_nc_eui2=AeHeqibvYA7u5O0GfV3k2xi6qdGGmL2BQEep0YaYvYFAR7J-OwyuaE_gHpnM7JTbzMGiikhFJd5VOqZwjW8b7o4a&_nc_ohc=RlC47ZtcMtIAX_ahkVu&_nc_ht=scontent.flad4-1.fna&oh=dadd41435d5b19b985eee62b7193d402&oe=5F30DC51);
+    height: 200px;
+}
+.banner {
+    background-size: 100%;
+    background-position: center;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://i0.wp.com/faf.co.ao/wp-content/uploads/2018/10/Petro-de-Luanda.jpg?fit=1080%2C809);
+    height: 360px;
+}
+
+.feedback-1 {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(https://cdn.record.pt/images/2020-01/img_920x518$2020_01_18_19_48_22_1652079.jpg);
+}
+.feedback-2 {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(https://cdn.record.pt/images/2020-01/img_920x518$2020_01_18_19_48_22_1652079.jpg);
+}
+.feedback-3 {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(https://i0.wp.com/faf.co.ao/wp-content/uploads/2018/10/Petro-de-Luanda.jpg?fit=1080%2C809);
+}
+
+
+/* News */
+.photo-1 {
+    height: 180px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://www.verangola.net/va/images/cache/750x380/crop_0_378_1280_1027/images%7Ccms-image-000024111.jpg);
+}
+.photo-2 {
+    height: 180px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://www.unicef.org/angola/sites/unicef.org.angola/files/styles/hero_desktop/public/Responsible%20Fatherhood%201.jpg?itok=0F3t1d5S);
+}
+.photo-3 {
+    height: 180px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://angola-online.net/upload/media/posts/2020-01/22/eb718c48024b23283967d39d5d843168_1579680293-s.jpg);
+}
+/* End New */
+.new-1 {
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://imgs.sapo.pt/jornaldeangola/img/thumb1/1585448894_gira.jpg);
+}
+.new-2 {
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://correiokianda.info/wp-content/uploads/2020/07/Bastos-Quissanga.jpg);
+}
+.new-3 {
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://i2.wp.com/opais.co.ao/wp-content/uploads/2019/08/Petro-de-Luanda.png?fit=640%2C311&ssl=1);
+}
+.new-4 {
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://thumbs.web.sapo.io/?W=800&H=0&delay_optim=1&epic=Y2Q2zm9V2R1b1SzYKU3GdgM7TWH9bvpHqTDgpwNFIRcSbiE7rKbKFsBJKc6y+Yz7xYfXIKXiibDgYqoefjGnPL6rEpEhDd/BbmVUhyUxRjxa3N0=);
+}
+
+
+
+.petro_tv {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://cdn.record.pt/images/2020-01/img_920x518$2020_01_18_19_48_22_1652079.jpg);
+    height: auto;
+}
+
+
+/* Jogadores */
+.jogadores {
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://cdn.record.pt/images/2020-01/img_920x518$2020_01_18_19_48_22_1652079.jpg);
+}
+.jogador-1 {
+    height: 280px;
+    background-size: 124% !important;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://thumbs.web.sapo.io/?W=800&H=0&png=1&delay_optim=1&epic=MzIw65NWOJA9K/Ivjvb8tXYte+BPCwZAdb68d+1nkKybFRuY+86ZMtqgVcCOkfWV2tMZ+RWoNuG6gl8vCjMzhOgPJ0yLuWaIW04bjSi6EKx+5Bo=);
+}
+.jogador-2 {
+    height: 280px;
+    background-size: 124% !important;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://imgs.sapo.pt/jornaldeangola/img/thumb1/1574757798_medio_manguxi.jpg);
+}
+.jogador-3 {
+    height: 280px;
+    background-size: 124% !important;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#0808088a), to(#0808088a)),url(https://imgs.sapo.pt/jornaldeangola/img/thumb1/20181215110652afrotacas.jpg);
+}
+.content-photo {
+    position: relative;
+    top: 20px;
+}
+
+
+/* Footer */
+footer {
+    clear: both !important;
+    width: 78%;
+    margin: 0px auto;
+}
